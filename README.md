@@ -2,7 +2,7 @@
 
 A simple java swing based Desktop App with SQLite DB for Managing your Pharmacy.
 
-View live site: Click ![here](https://yegna-pharma.onrender.com/)
+View live site: Click [here](https://yegna-pharma.onrender.com/)
 
 ![Ss](screenshot.JPG)
 
