@@ -1,5 +1,33 @@
-# Vue 3 + Vite
+# Yegna Pharma
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple java swing based Desktop App with SQLite DB for Managing your Pharmacy.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+View live site: Click ![here](https://yegna-pharma.onrender.com/)
+
+![Ss](screenshot.JPG)
+
+
+# Logo Design
+ - Telegram Link: [Click here](https://t.me/valorelm)
+ - Telegram Username: @valorelm 
+
+# Database Design
+ - Nathnael Mulugeta: [Click here](https://github.com/nathe444/nathe444?tab=readme-ov-file)
+
+### Default User
+- Username: John
+- Password: default
+# Java Swing Desktop App
+ - Contact me on
+     - LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
+       - Gmail: nathanyilmaasrat@gmail.com
+       - Telegram: [Natan Asrat](https://t.me/fail_your_way_to_success)
+       - Youtube: [Natville](https://www.youtube.com/@natvilletutor)
+
+# Screenshots
+![dash](screenshots/dashboard_profile.jpg)
+![inventory](screenshots/Inventory.jpg)
+![list](screenshots/list_of_drugs.png)
+![sell](screenshots/Sell.jpg)
+![my_profile](screenshots/my_profile.png)
+![new order](screenshots/add_new_order.jpg)
